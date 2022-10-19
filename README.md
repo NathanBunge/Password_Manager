@@ -1,4 +1,4 @@
-## Password Manager Program
+# Password Manager Program
 
 
 ## Purpose: 
