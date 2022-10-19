@@ -7,7 +7,7 @@ Passwords are necessary to protect user data in today’s age. When verifying a 
 ## Goal
 The project will consist of a program that is able to store passwords securely and access/compare passwords when logging in.
 
-## Features
+## Requirments
 - The program will use a secure algorithm that will hash passwords so that that they are unidentifiable to itself and similar passwords, and then put
 them into storage.
 - When logging in, the program will compare username and passwords to the corresponding stored username and password. It will do this by hashing the
