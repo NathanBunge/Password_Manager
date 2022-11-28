@@ -12,4 +12,4 @@ The project will consist of a program that is able to store passwords securely a
 them into storage.
 - When logging in, the program will compare username and passwords to the corresponding stored username and password. It will do this by hashing the
 input password to the stored password and comparing them. 
-- The program will have a GUI for users to be able to both register accounts and log into accounts
+- The program will have a GUI for users to be able to both register accounts and log into accounts.
